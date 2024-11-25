@@ -13,7 +13,7 @@ const products = ref([
     id: 2,
     name: 'Laptop',
     price: 24999,
-    image: '/images/laptop.jpg',
+    image: '/images/laptop.jpeg',
     description: 'Yüksek performanslı dizüstü bilgisayar'
   },
   {
